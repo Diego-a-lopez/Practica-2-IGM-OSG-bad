@@ -61,5 +61,5 @@ en la carpeta "historicos" se mantiene una version de los archivos anteriores do
 ## Imágenes del Gráfico de Escena
 Preview del código en ejecución
 
-![Preview](preview.png)
+![Preview](Preview.png)
 
