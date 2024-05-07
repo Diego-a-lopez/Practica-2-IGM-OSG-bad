@@ -59,6 +59,7 @@ en la carpeta "historicos" se mantiene una version de los archivos anteriores do
 - `spinningcubeV4.cpp`: Implementación con texturas aplicadas a los cubos.
 
 ## Imágenes del Gráfico de Escena
+Preview del código en ejecución
 
-*Insertar imágenes de los gráficos de escena para cada característica implementada aquí.*
+![Preview](preview.png)
 
